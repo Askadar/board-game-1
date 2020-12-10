@@ -1,0 +1,13 @@
+{
+  "appId": "com.zarahia.board.game",
+  "appName": "board-game-1",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}

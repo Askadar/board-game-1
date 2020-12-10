@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">board-game-1</string>
+    <string name="title_activity_main">board-game-1</string>
+    <string name="package_name">com.zarahia.board.game</string>
+    <string name="custom_url_scheme">com.zarahia.board.game</string>
+</resources>
